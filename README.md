@@ -1,5 +1,5 @@
 <h1 align="center">Oi! Eu sou o Pedro 🪐</h1>
-<h3 align="center">Desenvolvedor fullstack em treinamento</h3>
+<h3 align="center">Upcoming fullstack developer!</h3>
 
 - 🌱 Currently learning **Java, Spring**
 
