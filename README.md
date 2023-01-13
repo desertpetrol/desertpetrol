@@ -1,9 +1,9 @@
 <h1 align="center">Oi! Eu sou o Pedro 🪐</h1>
 <h3 align="center">Desenvolvedor fullstack em treinamento</h3>
 
-- 🌱 Estou estudando **Java, Spring**
+- 🌱 Currently learning **Java, Spring**
 
-- Desejo aprender **C++, Lua**
+- 🕑 Wish to learn one day **C++, Lua**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
