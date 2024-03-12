@@ -1,14 +1,20 @@
 <h1 align="center">Oi! Eu sou o Pedro 🪐</h1>
-Upcoming developer and CG hobbyist!
 
-Currently I'm learning **C++, C#, .NET, Computer Graphics and 3D Math**
+<p>Upcoming developer and CG hobbyist!</p> 
 
-  <h2>Books I'm <del>trying</del> reading</h2>
-- C++ Primer 5th Edition
-- https://www.gamemath.com/book/cartesianspace.html
-- Essential mathematics for games and interactive applications
-- Physically Based Rendering: From Theory To Implementation
-- Computer Graphics Principles and Practice
+<p>Currently I'm learning **C++, C#, .NET, Computer Graphics and 3D Math**</p>
+
+
+<h2>Books I'm <del>trying</del> reading</h2>
+
+  <ul>
+    <li>C++ Primer 5th Edition</li>
+    <li>3D Math Primer for Graphics and Game Development</li>
+    <li>Essential mathematics for games and interactive applications</li>
+    <li>Physically Based Rendering: From Theory To Implementation</li>
+    <li>Computer Graphics Principles and Practice</li>
+  </ul>
+
 
 
 <h2>🕑 Wish to learn one day **Lua, Haxe**</h2>
