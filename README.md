@@ -1,9 +1,9 @@
 <h1 align="center">Oi! Eu sou o Pedro 🪐</h1>
-<h3 align="center">Upcoming fullstack developer!</h3>
+<h2 align="center">Upcoming developer and CG hobbyist!</h3>
 
 - 🌱 Currently learning **C++, C#, .NET, Computer Graphics and 3D Math**
 
-  Books I'm <del>trying</del> reading
+  <h2>Books I'm <del>trying</del> reading</h2>
 - C++ Primer 5th Edition
 - https://www.gamemath.com/book/cartesianspace.html
 - Essential mathematics for games and interactive applications
