@@ -1,5 +1,5 @@
 <h1 align="center">Oi! Eu sou o Pedro 🪐</h1>
-<h2 align="center">Upcoming developer and CG hobbyist!</h3>
+<h3 align="center">Upcoming developer and CG hobbyist!</h3>
 
 - 🌱 Currently learning **C++, C#, .NET, Computer Graphics and 3D Math**
 
@@ -11,7 +11,8 @@
 - Computer Graphics Principles and Practice
 
 
-- 🕑 Wish to learn one day **Lua, Haxe**
+<h2>🕑 Wish to learn one day **Lua, Haxe**</h2>
+
 
 For more information, don't forget to check my LinkedIn! https://www.linkedin.com/in/pedro-aguiar-7a7321239/
 
