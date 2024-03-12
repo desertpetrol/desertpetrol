@@ -1,9 +1,17 @@
 <h1 align="center">Oi! Eu sou o Pedro 🪐</h1>
 <h3 align="center">Upcoming fullstack developer!</h3>
 
-- 🌱 Currently learning **Java, Spring**
+- 🌱 Currently learning **C++, C#, .NET, Computer Graphics and 3D Math**
 
-- 🕑 Wish to learn one day **C++, Lua, Haxe**
+  Books I'm <del>trying</del> reading
+- C++ Primer 5th Edition
+- https://www.gamemath.com/book/cartesianspace.html
+- Essential mathematics for games and interactive applications
+- Physically Based Rendering: From Theory To Implementation
+- Computer Graphics Principles and Practice
+
+
+- 🕑 Wish to learn one day **Lua, Haxe**
 
 For more information, don't forget to check my LinkedIn! https://www.linkedin.com/in/pedro-aguiar-7a7321239/
 
