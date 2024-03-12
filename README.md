@@ -1,7 +1,7 @@
 <h1 align="center">Oi! Eu sou o Pedro 🪐</h1>
-<h3 align="center">Upcoming developer and CG hobbyist!</h3>
+Upcoming developer and CG hobbyist!
 
-- 🌱 Currently learning **C++, C#, .NET, Computer Graphics and 3D Math**
+Currently I'm learning **C++, C#, .NET, Computer Graphics and 3D Math**
 
   <h2>Books I'm <del>trying</del> reading</h2>
 - C++ Primer 5th Edition
