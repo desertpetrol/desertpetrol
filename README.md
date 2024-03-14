@@ -2,7 +2,7 @@
 
 <p>Upcoming developer and CG hobbyist!</p> 
 
-<p>Currently I'm learning **C++, C#, .NET, Computer Graphics and 3D Math**</p>
+<p>Currently I'm learning C++, C#, .NET, Computer Graphics and 3D Math</p>
 
 
 <h2>Books I'm <del>trying</del> reading</h2>
@@ -17,7 +17,7 @@
 
 
 
-<h2>🕑 Wish to learn one day **Lua, Haxe**</h2>
+<h2>🕑 Wish to learn one day Lua, Haxe</h2>
 
 
 For more information, don't forget to check my LinkedIn! https://www.linkedin.com/in/pedro-aguiar-7a7321239/
