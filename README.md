@@ -18,7 +18,7 @@
 
 
 
-<h2>🕑 Planning to learn day Lua and GO</h2>
+<h2>🕑 Planning to learn Lua and GO</h2>
 
 
 For more information, don't forget to check my LinkedIn! https://www.linkedin.com/in/pedro-aguiar-7a7321239/
