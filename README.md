@@ -9,7 +9,7 @@
 
   <ul>
     <li><b>programming principles and practice using c++<b></li>
-    <li>Making Embedded Systems: Design Patterns for Great Software<li>
+    <li>Making Embedded Systems: Design Patterns for Great Software</li>
     <li>3D Math Primer for Graphics and Game Development</li>
     <li>Essential mathematics for games and interactive applications</li>
     <li>Physically Based Rendering: From Theory To Implementation</li>
