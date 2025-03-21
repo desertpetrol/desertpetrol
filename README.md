@@ -2,7 +2,7 @@
 
 <p>Upcoming developer and CG hobbyist!</p> 
 
-<p>Currently I'm learning C++, and plan to delve into Computer Graphics and embedded systems</p>
+<p>Currently I'm learning C++, and plan to delve into Computer Graphics and embedded systems.</p>
 
 
 <h2>Books currently reading or planning to read</h2>
